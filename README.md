@@ -4,4 +4,4 @@
 
 Адаптивная верстка под разные разерешния экрана шириной 320px, 768px, 1024px и 1280px
 
-[ссылка на проект] (https://sashaslab.github.io/russian-travel/)
+[Cсылка на проект](https://sashaslab.github.io/russian-travel/)
