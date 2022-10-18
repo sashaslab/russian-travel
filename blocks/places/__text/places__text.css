@@ -1,9 +1,11 @@
-.places__text .places__paragraph:not(:first-child) {
-  padding-top: 27px;
+.places__text {
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
 }
 
 @media screen and (max-width: 768px) {
-  .places__text .places__paragraph:not(:first-child) {
-    padding-top: 25px;
+  .places__text {
+    gap: 25px;
   }
 }
