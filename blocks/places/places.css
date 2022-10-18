@@ -4,17 +4,10 @@
   width: calc(100% - 96px);
 }
 
-.places .places__place:not(:first-child) {
-  padding-top: 80px;
-}
-
 @media screen and (max-width: 768px) {
   .places {
     width: calc(100% - 48px);
     padding-top: 88px;
-  }
-  .places .places__place:not(:first-child) {
-    padding-top: 72px;
   }
 }
 
@@ -22,8 +15,5 @@
   .places {
     width: 100%;
     padding-top: 64px;
-  }
-  .places .places__place:not(:first-child) {
-    padding-top: 50px;
   }
 }
